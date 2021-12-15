@@ -1,7 +1,7 @@
 Implementing Login on Android with FirebaseUI
 =========================
 
-This repository contains the final code for the Login Codelab.
+This is part of Android Kotlin developer Course which implements Login on android with Fire BaseUI.
 
 License
 -------
